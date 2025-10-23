@@ -1,16 +1,16 @@
-\##Phantasy Star Universe "Calculator"
+\## Phantasy Star Universe "Calculator"
 
 Mainly just a tool for calculating runs. Separate web app from the game.
 
 
 
-\###Dude... why?
+\### Dude... why?
 
 Because I'm into PSU and I want to practice using React? Everything I do for fun has to be related to the current thing I'm obsessed with. PSU is just the next victim to my habits.
 
 
 
-\###Functionality
+\### Functionality
 
 (Hopefully...)
 
